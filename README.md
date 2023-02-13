@@ -23,4 +23,5 @@ if supports are ever needed, use **PVA** because breakaway is just going to be a
 Copyright © 2023 Jack "unijorse" Skaggs    
 these files are free to modify and distribute for noncommercial use  
 the creator of these files retains all rights to patent and commercial distribution  
-these files are distributed without any warranty, and the parties distributing it may **not** be held liable for any harm or damages caused by them
+these files are distributed without any warranty  
+distributors may not be held liable for damages caused by the use of these files
