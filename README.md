@@ -14,5 +14,3 @@ required materials to print a full set:
 * 4 m3 6mm screw
 
 stl and sldprt (solidworks part) files are included for each piece
-
-documentation images to come
