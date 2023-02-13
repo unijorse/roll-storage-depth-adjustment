@@ -14,3 +14,4 @@ required materials to print a full set:
 * 4 m3 6mm screw
 
 stl and sldprt (solidworks part) files are included for each piece
+these parts are reccomended to be printed with ABS. if supports are ever needed, use PVA. breakaway is just going to be a pain in the ass to remove
