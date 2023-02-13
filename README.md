@@ -20,5 +20,10 @@ stl and sldprt (solidworks part) files are included for each piece
 these parts are reccomended to be printed with **ABS**  
 if supports are ever needed, use **PVA** because breakaway is just going to be a pain in the ass to remove
 
-Copyright © 2023 Jack "unijorse" Skaggs  
-This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+Copyright © 2023 Jack "unijorse" Skaggs    
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License  
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
